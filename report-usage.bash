@@ -9,6 +9,8 @@ echo "****************************"
 
 ping -c4 www.yahoo.com
 
+ping www.google.com
+
 
 
 
